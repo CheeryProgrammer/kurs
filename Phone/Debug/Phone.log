@@ -1,0 +1,8 @@
+﻿Phone.rc(18): warning RC2182: duplicate dialog control ID 0
+  
+Phone.rc(20): warning RC2182: duplicate dialog control ID 0
+  
+Phone.rc(29): warning RC2182: duplicate dialog control ID 0
+  
+  Phone.vcxproj -> D:\DOCUMENTS\РГРТУ\3 курс\Весна\- Графические интерфейсы информационных систем\kurs\Debug\Phone.exe
+  Phone.vcxproj -> D:\DOCUMENTS\РГРТУ\3 курс\Весна\- Графические интерфейсы информационных систем\kurs\Debug\Phone.pdb (Full PDB)

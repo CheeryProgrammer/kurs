@@ -1,6 +1,3 @@
-#pragma once
-
-#include "resource.h"
 #define IDM_ABOUT      1
 
 #define IDD_BLACK     10
