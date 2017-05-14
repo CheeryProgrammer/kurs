@@ -1,6 +1,3 @@
 ﻿  Phone.cpp
-c:\users\zoom\desktop\kursach\phone\resource.h(21): warning C4005: IDM_EXIT: изменение макроопределения
-  c:\users\zoom\desktop\kursach\phone\resource.h(12): note: см. предыдущее определение "IDM_EXIT"
-c:\users\zoom\desktop\kursach\phone\phone.cpp(218): warning C4715: InputNumberProc: значение возвращается не при всех путях выполнения
-  Phone.vcxproj -> C:\Users\Zoom\Desktop\Kursach\Debug\Phone.exe
-  Phone.vcxproj -> C:\Users\Zoom\Desktop\Kursach\Debug\Phone.pdb (Full PDB)
+  Phone.vcxproj -> D:\DOCUMENTS\РГРТУ\3 курс\Весна\- Графические интерфейсы информационных систем\kurs\Debug\Phone.exe
+  Phone.vcxproj -> D:\DOCUMENTS\РГРТУ\3 курс\Весна\- Графические интерфейсы информационных систем\kurs\Debug\Phone.pdb (Full PDB)
