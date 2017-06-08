@@ -1,7 +1,9 @@
 ﻿  stdafx.cpp
   Phone.cpp
   Generating code
-  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  6 of 6 functions (100.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
-  Phone.vcxproj -> D:\Yo_Git\kurs\Release\Phone.exe
-  Phone.vcxproj -> D:\Yo_Git\kurs\Release\Phone.pdb (Full PDB)
+  Phone.vcxproj -> D:\DOCUMENTS\РГРТУ\3 курс\Весна\+- Графические интерфейсы информационных систем\kurs\Release\Phone.exe
+  Phone.vcxproj -> D:\DOCUMENTS\РГРТУ\3 курс\Весна\+- Графические интерфейсы информационных систем\kurs\Release\Phone.pdb (Full PDB)
